@@ -1,4 +1,4 @@
-c57f43471275285d90e52c384eb61941 *DESCRIPTION
+1ecdbe74dc19a886a3f89c6c6d0f1cc9 *DESCRIPTION
 fbaf7bca9f0de5f3d8bee4f0ff551c45 *NAMESPACE
 3b65b4d371b6a5b205eba593f14a04ab *R/GGN.R
 c4ae200e9b46ad1268734ca6cb3be734 *R/PGN_Lasso.R
@@ -14,7 +14,7 @@ ba7835f36125a790ac4c253181739029 *R/scPOEM.R
 1466c58ba12dbdfdcc3ae40aa0043073 *data/datalist
 d58cd7323e1a5707ea2fdf07f94f9309 *data/example_data_compare.rda
 99a14d55cc8b85bd483d21ffc1068630 *data/example_data_single.rda
-b83f42886a51e4b7ca82abf2d381e427 *inst/doc/scPOEM.pdf
+eedd6e9bfd5fc29e7375f3d3d99096a0 *inst/doc/scPOEM.pdf
 22e834ff775f0972ee486fc2791d6283 *inst/python/GGN.py
 a08b2ba2a0f08d29fd218ca07f3e6e04 *inst/python/PGN_RF.py
 04439efa12533d2d4b8afbf828b67b86 *inst/python/pg_embedding.py
